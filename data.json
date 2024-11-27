@@ -1,0 +1,38 @@
+{
+  "groups": ["K-1", "K-2"],
+  "rooms": ["101", "102", "103"],
+  "times": ["1", "2", "3"],
+  "lectors_info": {
+    "Taranukha": {
+      "subjects": ["IS", "Algorithms", "CL"],
+      "max_hours": 6,
+      "hours": 0
+    },
+    "Mysechko": {
+      "subjects": ["IS", "Programming", "WEB"],
+      "max_hours": 4,
+      "hours": 0
+    },
+    "Svystunov": {
+      "subjects": ["OOP", "OS"],
+      "max_hours": 7,
+      "hours": 0
+    },
+    "Halavai": {
+      "subjects": ["SP", "MP"],
+      "max_hours": 5,
+      "hours": 0
+    },
+    "Shyshatska": {
+      "subjects": ["IT projects", "TP"],
+      "max_hours": 4,
+      "hours": 0
+    },
+    "Tkatchenko": {
+      "subjects": ["Mobile OS", "IT"],
+      "max_hours": 7,
+      "hours": 0
+    }
+  },
+  "weekdays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+}
