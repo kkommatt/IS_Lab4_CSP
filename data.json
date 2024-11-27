@@ -33,6 +33,5 @@
       "max_hours": 7,
       "hours": 0
     }
-  },
-  "weekdays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+  }
 }
